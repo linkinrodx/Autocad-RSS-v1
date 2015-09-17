@@ -1,0 +1,112 @@
+D:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+D:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+D:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+D:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Plano.resources
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+D:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+F:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+F:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+E:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+E:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+E:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Plano.resources
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+H:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+H:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+H:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+H:\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Plano.resources
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+H:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+F:\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+F:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+F:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+F:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+F:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+E:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+E:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+E:\.Trashes\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+E:\.Trashes\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+F:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+H:\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+H:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+H:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+H:\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe.config
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.exe
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.xml
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.pdb
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+F:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.exe
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.pdb
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\bin\Debug\Autocad-RSS.xml
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormOpciones.resources
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.FormMain.resources
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad_RSS.Resources.resources
+E:\.Trashes\archivos guardados\Autocad-RSS\Autocad-RSS\obj\Debug\Autocad-RSS.vbproj.GenerateResource.Cache
