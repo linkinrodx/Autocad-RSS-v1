@@ -1,0 +1,369 @@
+﻿<%@ Master Language="VB" CodeFile ="~/Master/MasterPage.Master.vb" Inherits="MasterPage" %>
+<%--<%@ Register assembly="Telerik.Web.UI" namespace="Telerik.Web.UI" tagprefix="telerik" %>--%>  
+<%--<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>--%>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>.:. MÓDULO DE SEGURIDAD .:.</title>
+    <link href="../App_Themes/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <link href="../App_Themes/syllabusAzul/syllabus.css" rel="stylesheet" type="text/css" />
+    
+    <style type="text/css">
+         html
+        {
+            background-color:silver;
+        }
+        .menuTabs
+        {
+            position:relative;
+            top:1px;
+            left:10px;
+        }
+        .tab
+        {
+            border:Solid 1px black;
+            border-bottom:none;
+            padding:0px 10px;
+            background-color:#eeeeee;
+        }
+        .selectedTab
+        {
+            border:Solid 1px black;
+            border-bottom:Solid 1px white;
+            padding:0px 10px;
+            background-color:white;
+        }
+        .tabBody
+        {
+            border:Solid 1px black;
+            padding:20px;
+            background-color:white;
+        }
+    .IE8Fix{
+        z-index: 100;
+    }
+    
+.RadMenu
+{
+	white-space:nowrap;
+	float:left;
+	position:relative;
+}
+
+
+.RadMenu
+{
+	white-space:nowrap;
+	float:left;
+	position:relative;
+            top: 2px;
+            left: 1px;
+            height: 43px;
+            width: 303px;
+        }
+
+.RadMenu .rmItem
+{
+	float:left;
+	position:relative;
+	list-style-image: none;
+	list-style-position:outside;
+	list-style:none;	
+}
+
+.RadMenu .rmItem
+{
+	float:left;
+	position:relative;
+	list-style-image: none;
+	list-style-position:outside;
+	list-style:none;	
+}
+
+.RadMenu .rmLink
+{
+	width:auto;
+}
+
+.RadMenu .rmLink
+{
+	width:auto;
+}
+
+.RadMenu .rmText
+{
+	display:block;
+}
+
+    .RadMenu .rmText
+{
+	display:block;
+}
+
+        .style4
+        {}
+        .style5
+        {
+            width: auto;
+        }
+        .style6
+        {
+            width: 216px;
+        }
+        .style7
+        {
+            background-image: url('../App_Themes/syllabusAzul/img/HeaderRepeater.jpg');
+            background-repeat: repeat-x;
+            height: 95px;
+            width: 303px;
+        }
+        .auto-style3 {
+            background-image: url('../App_Themes/syllabusAzul/img/HeaderRepeater.jpg');
+            background-repeat: repeat-x;
+            height: 95px;
+            width: 704px;
+        }
+        .auto-style4 {
+             width: 112px;
+        }
+        .LogoSecundario{
+	        width:795px;
+	        min-width:400px;
+	        background-image:url(../images/Imagenes/Imagenes_Institucional/LogoSecundario2.jpg);
+	        background-repeat:no-repeat;
+	        background-position:right;
+	        vertical-align: bottom;
+	        height: 94px;
+	        border-top:1px double #144B72;
+        }
+        .Menu
+        {
+            text-decoration: none;
+            color: #ffffff;
+            background: #75b8d9;
+            background-image: -webkit-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -moz-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -ms-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -o-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: linear-gradient(to bottom, #75b8d9, #def2ff);            
+
+            border-radius: 10px;
+            border-top: solid #666666 3px;
+            border-right: solid #666666 0px;
+            border-left: solid #666666 1px;
+            
+            font-weight:bold;
+            font-size:15px;
+            font-style:normal;
+            font-family:Arial;
+            padding: 10px;                
+        }
+        .Menu:hover {
+          color: #ffffff;
+          background: #75b8d9;
+          background-image: -webkit-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -moz-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -ms-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -o-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: linear-gradient(to bottom, #e0fdff, #71c1e6);
+          text-decoration: none;
+        }
+        
+        
+        #frmPrincipal {
+            width: 1279px;
+        }     
+        
+        .SubMenu
+        {
+            background: #75b8d9;
+            background-image: -webkit-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -moz-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -ms-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: -o-linear-gradient(top, #75b8d9, #def2ff);
+            background-image: linear-gradient(to bottom, #75b8d9, #def2ff);            
+
+            border-radius: 2px;
+            
+            color: #ffffff;
+            font-weight:bold;
+            font-size:15px;
+            font-style:normal;
+            font-family:Arial;
+            padding: 7px;                        
+        }
+        .SubMenu:hover {
+          color: #ffffff;
+          background: #75b8d9;
+          background-image: -webkit-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -moz-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -ms-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: -o-linear-gradient(top, #e0fdff, #71c1e6);
+          background-image: linear-gradient(to bottom, #e0fdff, #71c1e6);
+          text-decoration: none;
+        }   
+        
+    </style>
+</head>
+<body>
+    <form id="frmPrincipal"  runat="server" >
+    <div id="contenedor">
+        <%--<telerik:radscriptmanager id="ToolkitScriptManager1" runat="server">
+        </telerik:radscriptmanager>--%>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td class="auto-style4">
+                    <%--<asp:Image ID="Image1" runat="server"  
+                        ImageUrl ="~/images/Imagenes/Imagenes_Institucional/logo.jpg" Height="94px" Width="208px"  />
+                    </td>--%>   
+                    <a title="Via Parque Rimac" href="http://lamsac.com.pe">
+                    </a>
+                    <img alt="" height="95" class="header_repeater" src="../images/Imagenes/Imagenes_Institucional/logo.jpg"></td>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="LogoSecundario">&nbsp;</td>
+            </tr>
+        </table>
+        
+        <table class="tabla-contenedora" border="0" cellspacing="0" cellpadding="0" >
+            
+            <tr style="vertical-align:middle">
+                
+                <td >
+                    <div style="height:7px">
+                    </div>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+                <tr>
+                    <td class="style5"> 
+                        <div id="menu-container" >
+                        <%--<telerik:radmenu id="mnuScopSeguridad" runat="server" skin="Forest">
+                            <CollapseAnimation Type="OutQuint" Duration="200"></CollapseAnimation>
+                            <Items>
+                                <telerik:RadMenuItem runat="server" Text="Configuracion de la Seguridad" Value="mnConfiguracionSeguridad" BorderStyle="None" ForeColor="White">
+                                    <Items>
+
+                                        <telerik:RadMenuItem runat="server" Text="Buscar Grupos" 
+                                            Value="mnConfiguracionSeguridadMttoGrupos" 
+                                            NavigateUrl="~/ModuleSecurity/frmBuscarGrupos.aspx">
+                                        </telerik:RadMenuItem>
+                                    
+                                        <telerik:RadMenuItem IsSeparator="true" Value="mnConfiguracionSeguridadMttoRoles" />
+                                        <telerik:RadMenuItem runat="server" Text="Buscar Roles"
+                                            Value ="mnAtencionServicioRegistroAtencion"
+                                            NavigateUrl="~/ModuleSecurity/frmBuscarRoles.aspx" >
+                                        </telerik:RadMenuItem>
+                        
+                                        <telerik:RadMenuItem IsSeparator="true" Value="mnConfiguracionSeguridadMttoUsuarios" />
+                                        <telerik:RadMenuItem runat="server" Text="Buscar Usuario"
+                                            Value ="mnAtencionServicioRegistroAtencion"
+                                            NavigateUrl="~/ModuleSecurity/frmBuscarUsuarios.aspx" >
+                                        </telerik:RadMenuItem>
+                                    
+                                    </Items>
+                                </telerik:RadMenuItem>
+                            </Items>
+                            <CollapseAnimation Type="OutQuint" Duration="200"></CollapseAnimation>
+                        </telerik:radmenu>--%>
+
+                            <asp:Menu ID="mnMenuPrincipal" runat="server" Orientation="Horizontal" DynamicHorizontalOffset="2" >        
+                                <LevelMenuItemStyles>
+                                    <asp:MenuItemStyle CssClass="Menu"/>
+                                    <asp:MenuItemStyle CssClass="SubMenu"/>
+                                </LevelMenuItemStyles>                    
+                                <Items>
+                                    <asp:MenuItem runat="server" Text="Configuración de la Seguridad" Value="mnConfiguracionSeguridad" NavigateUrl="~/ModuleSecurity/frmPrincipal.aspx">
+                                        
+                                        <%--Perfiles de Grupos--%>
+                                        <asp:MenuItem runat="server" Text="Buscar Grupos" 
+                                                Value="mnConfiguracionSeguridadMttoGrupos" 
+                                                NavigateUrl="~/ModuleSecurity/frmBuscarGrupos.aspx">                                        
+                                        </asp:MenuItem>
+                                    
+                                        <%--Perfiles de Roles--%>
+                                        <asp:MenuItem runat="server" Text="Buscar Roles"
+                                                Value ="mnConfiguracionSeguridadMttoRoles"
+                                                NavigateUrl="~/ModuleSecurity/frmBuscarRoles.aspx">
+                                        </asp:MenuItem>
+                                
+                                        <%--Perfiles de Usuarios--%>
+                                        <asp:MenuItem runat="server" Text="Buscar Usuario"
+                                                Value ="mnConfiguracionSeguridadMttoUsuarios"
+                                                NavigateUrl="~/ModuleSecurity/frmBuscarUsuarios.aspx">
+                                        </asp:MenuItem>
+                                    </asp:MenuItem>
+                                </Items>
+                                <%--<StaticSelectedStyle BackColor="#e4ad05" ForeColor="White"/>--%>
+                                <%--<StaticMenuItemStyle HorizontalPadding="10px" VerticalPadding="7px" />--%>
+                                <%--<DynamicHoverStyle BackColor="#e4ad05" ForeColor="White" />--%> <%--resaltado--%> 
+                                <%--<DynamicMenuStyle BackColor="#94bb0b"  ForeColor="White"/>--%> <%--sombra--%> 
+                                <%--<DynamicSelectedStyle BackColor="#e4ad05"  ForeColor="White"/>--%>
+                                <%--<DynamicMenuItemStyle HorizontalPadding="20px" VerticalPadding="7px" />--%>
+                                <%-- <StaticHoverStyle BackColor="#e4ad05" ForeColor="White" />--%> <%--resaltado--%>            
+                                <%--<StaticMenuItemStyle BackColor="#94bb0b"  ForeColor="White" />     --%>       
+                            </asp:Menu>
+                    
+                        </div>
+                        <%--<div>
+
+                        </div>--%>
+	                </td>
+                    <td align="center" style="width:250px">
+                        Bienvenido(a): <strong dir="rtl">
+                        <asp:Label ID="lblUsuario" runat="server"></asp:Label>
+        	            </strong>                            
+                    </td>
+                    <td align="center" style="width:200px">           
+                         <asp:LinkButton ID="lnkbCerrar" runat="server" Font-Size="12px" Width="100%" Font-Bold="true" 
+                              Height="16px" CausesValidation="False">Cerrar Sesión</asp:LinkButton>                       
+                     </td>
+                </tr>
+            </table>
+	    </td>
+      
+        <%--<td>
+            <center><span> 
+               <strong dir="ltr">               
+                    <asp:LinkButton ID="lnkbCerrar" runat="server" CssClass="texto8pt" Width="92px" 
+                    Height="16px" CausesValidation="False">Cerrar Sesión</asp:LinkButton>
+                </strong>
+	        </span></center>
+	    </td>--%>
+      
+    </tr>
+  <%--<tr>
+    <td colspan="2" class="style4">
+	<div class="usuario-bar" align="left">
+			<span>Bienvenido(a): <strong dir="rtl">
+                <asp:Label ID="lblUsuario" runat="server"></asp:Label>
+        	</strong></span>
+		</div>
+	</td>
+      
+    </tr>--%>
+  <tr>
+    <%--<td colspan="2" class="style4">
+	    &nbsp;</td>
+      
+    </tr>   --%>         
+  <tr>
+      
+    <td colspan="2">
+	<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+              </asp:ContentPlaceHolder> 	
+	</td>    
+  </tr>
+</table>
+    <div class="footer" id="footer" align="center">            
+        <%--Perfiles de Grupos--%>
+                         <p>Vía Parque Rimac - Copyright (C) 2013 <br />
+                         Av. Jorge Basadre 592, Torre azul Piso 7, San Isidro. Teléfono: 6121500<br />
+                         Jr. Pérez de Tudela Nº 3085 Mirones Bajo, Cercado de Lima. Teléfono: 6129400 Correo: informes@viaparquerimac.com.pe</p> 
+    </div>
+    <div align="center">
+        <img alt=""  src="../images/Imagenes/Imagenes_Institucional/browsers.png" width="120px" />
+    </div>
+        <div style="height:20px">
+        </div>
+    </form>
+</body>
+</html>
