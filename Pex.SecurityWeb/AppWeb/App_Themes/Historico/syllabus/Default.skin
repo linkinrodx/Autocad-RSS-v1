@@ -1,0 +1,21 @@
+<%@ Register Assembly="Microsoft.ReportViewer.WebForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    Namespace="Microsoft.Reporting.WebForms" TagPrefix="rsweb" %>
+
+<asp:RequiredFieldValidator runat="server">
+   <img src="/Images/imgError.gif" width="11" height="11"/>
+</asp:RequiredFieldValidator>
+<asp:CustomValidator runat="server">
+   <img src="/Images/imgError.gif" width="11" height="11"/>
+</asp:CustomValidator>
+<asp:RegularExpressionValidator runat="server">
+   <img src="/Images/imgError.gif" width="11" height="11"/>
+</asp:RegularExpressionValidator>
+<asp:CompareValidator runat="server">
+   <img src="/Images/imgError.gif" width="11" height="11"/>
+</asp:CompareValidator>
+<asp:RangeValidator runat="server">
+   <img src="/Images/imgError.gif" width="11" height="11"/>
+</asp:RangeValidator>
+<asp:ValidationSummary runat="server" CssClass="mjeErrorResumen" />
+<asp:DropDownList runat="server" CssClass="comboGeneral" />
+<rsweb:ReportViewer runat="server" ShowPrintButton="false"/>

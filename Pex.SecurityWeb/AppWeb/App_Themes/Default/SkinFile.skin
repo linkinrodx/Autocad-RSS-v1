@@ -1,0 +1,28 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:GridView runat="server" SkinId="gridviewSkin" AutoGenerateColumns="False"  PageSize="3"
+ShowFooter="False" CellPadding="4"  AllowPaging="True">
+
+<AlternatingRowStyle CssClass="GridAltRow" BackColor ="#F2F2F7" />
+                                       <HeaderStyle Font-Bold="True" BackColor="#284775" ForeColor="#FFFFFF" Wrap="True"/>
+                                        <RowStyle CssClass="GridRow" BackColor="#E6E6EF" ForeColor="#333333" />
+                                        <FooterStyle BackColor="#E6E6EF" Font-Bold="True" ForeColor="White" />
+                                        <EditRowStyle BackColor="#999999" />
+                                        <SelectedRowStyle BackColor="#E6E6EF" Font-Bold="True" ForeColor="#333333" />
+                                        <PagerSettings  Mode ="NumericFirstLast" />
+                                        <PagerStyle ForeColor="Black" BackColor="#E6E6EF"  HorizontalAlign="Right"/> 
+</asp:GridView>
+ <asp:ImageButton SkinId="sknBtnAprobar" runat="server" ImageUrl="~/images/check_icon.gif" />

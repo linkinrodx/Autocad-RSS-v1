@@ -1,0 +1,167 @@
+﻿/*- Menu Tabs 6--------------------------- */
+
+#tabs6 {
+	font-size:10px;
+	font-weight:bolder;
+	font-family: Arial;
+	border-width: 0px;
+	padding-left: 100px;
+	text-transform: capitalize;
+  }
+#tabs6 ul {
+	margin:0;
+	padding:0px 10px 0px 0px;
+	list-style:none;
+  }
+#tabs6 li {
+  display:inline;
+  margin:0;
+  padding:0;
+  }
+#tabs6 a {
+  float:left;
+  background:url("images/tableft6.gif") no-repeat left top;
+  margin:0;
+  padding:0 0 0 4px;
+  text-decoration:none;
+  color:#fff;
+  
+  }
+#tabs6 a span {
+  float:left;
+  display:block;
+  background:url("images/tabright6.gif") no-repeat right top;
+  padding:5px 15px 4px 6px;
+  color:#fff;
+  } 
+ 
+ #tabs6 a menuActivo {
+  float:left;
+  display:block;
+  background:url("images/tabright6.gif") no-repeat right top;
+  padding:5px 15px 4px 6px;
+  color:#fff;
+  background-position:100% -42px;
+  }  
+  
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs6 a span {float:none;}
+/* End IE5-Mac hack */
+#tabs6 a:hover span {
+  color:#FFF;
+  }
+#tabs6 a:hover {
+  background-position:0% -42px;
+  }
+#tabs6 a:hover span {
+  background-position:100% -42px;
+  }
+.menuActivo{
+background-position:100% -42px;
+}
+
+/***************************************************/
+    /* menu bar styles */
+    #menu-container
+    {
+        background: #003955 url(images/bg-menu.gif) repeat-x;   
+        height:24px;     
+    }
+    .menu-strip
+   {
+       font-size: 10px;
+       margin: 0px;
+       vertical-align: middle;
+       height:22px;
+   }
+   /* all levels styles */
+   .menu-level1, .menu-level2, .menu-level3
+   {
+       padding: 3px;
+       margin: 0px;
+       text-decoration:none;
+   }
+   .menu-level1 a:link, .menu-level1 a:visited, .menu-level1 a:hover, .menu-level1 a:active
+   {
+       color: White;
+       text-decoration:none;
+       cursor:default !important;
+   }
+   
+   /* menu level 1 styles */
+   .menu-level1
+   {
+       font-weight: bold;
+       padding: 3px;
+       margin: 0px;
+       text-decoration:none;
+       color:#000000;
+       cursor:pointer;
+   }
+   .menu-level1-selected
+   {
+       background: #124265 url(images/bg-menu-down.gif) repeat-x;
+       border: solid 1px #124265;
+       font-size:10px;
+       cursor:pointer;
+   }
+   .menu-level1-hover
+   {
+       background-color: #F9FDFF;
+       border-top: solid 1px #124265;
+       border-left: solid 1px #124265;
+       border-right: solid 1px #124265;
+       text-decoration:none;   
+       cursor:pointer;    
+   }
+   .menu-level1-hover a:link, .menu-level1-hover a:visited, .menu-level1-hover a:hover, .menu-level1-hover a:active
+   {
+       color:Black;
+       text-decoration:none;
+       cursor:pointer;
+   }
+   
+   /* menu level 2 styles */
+   .menu-level2-submenu
+   {
+       border-bottom: solid #124265 2px;
+       border-left: solid #124265 1px;
+       border-right: solid #124265 2px;
+       margin: 0px;
+       padding: 0px;
+       text-decoration:none;
+       color:#000000;       
+   }
+   .menu-level2
+   {
+       background-color: #F9FDFF;
+       font-weight: bold;
+       padding: 3px;
+       margin: 0px;
+       width: 100%;
+       text-decoration:none;
+       height:16px;
+       color:#000000;
+   }
+   .menu-level2-selected
+   {
+       background-color: #ECF9FF;
+   }
+   .menu-level2-hover
+   {
+       background: #124265 url(images/bg-header.gif) repeat-x;  
+       text-decoration:none; 
+       z-index:50;
+       /*display:block;
+       height: 12px;*/
+   }
+   .menu-leve2 a:link, .menu-level2 a:visited, .menu-level2 a:hover, .menu-level2 a:active
+   {
+       color:Black;
+       text-decoration:none;
+   }
+   .menu-level2-hover a:link, .menu-level2-hover a:visited, .menu-level2-hover a:hover, .menu-level2-hover a:active
+   {
+       color:white;
+       text-decoration:none;
+   }

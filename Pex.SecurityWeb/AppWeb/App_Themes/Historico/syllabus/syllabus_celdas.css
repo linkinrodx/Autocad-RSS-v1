@@ -1,0 +1,360 @@
+.celdaimpar 
+{
+	background-color: #F9F9F9;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 9px;
+	text-decoration: none;
+	color: #000000;
+	height:20px;
+}
+
+.celdaimpar A:link 
+{
+    background-color: #F9F9F9;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;   
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaimpar A:visited 
+{
+    background-color: #F9F9F9;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;   
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaimpar A:active 
+{
+    background-color: #F9F9F9;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaimpar A:hover 
+{
+    background-color: #F9F9F9;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;   
+    text-decoration: none; 
+    height:20px;
+}
+
+.celdapar 
+{
+	background-color: #DBE5F1;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 9px;
+	text-decoration: none;
+	color: #000000;
+	height:20px;
+	
+}
+
+.celdapar A:link 
+{
+    background-color: #e2e2e2;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;       
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdapar A:visited 
+{
+    background-color: #e2e2e2;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;        
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdapar A:active 
+{
+    background-color: #e2e2e2;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdapar A:hover 
+{
+    background-color: #e2e2e2;     
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;     
+    text-decoration: none; 
+    height:20px;
+}
+
+.celdaseleccionada 
+{
+    background-color: #fff2df; 
+    color: #2c2c2c; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: none; 
+    height:20px;
+}
+
+.celdaseleccionada A:link 
+{
+    background-color: #fff2df; 
+    color: #2c2c2c; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaseleccionada A:visited 
+{
+    background-color: #fff2df; 
+    color: #2c2c2c; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaseleccionada A:active 
+{
+    background-color: #fff2df; 
+    color: #2c2c2c; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdaseleccionada A:hover 
+{
+    background-color: #fff2df; 
+    color: #2c2c2c; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    text-decoration: none; 
+    height:20px;
+}
+
+.celdasombreada 
+{
+    background-color: #729fcf; 
+    color: #ffffff;     
+    cursor: pointer;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: none; 
+    height:20px;
+}
+
+.celdasombreada A:link 
+{
+    background-color: #ffecb0; 
+    color: #2c2c2c; 
+    cursor: pointer;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;     
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdasombreada A:visited 
+{
+    background-color: #ffecb0; 
+    color: #2c2c2c; 
+    cursor: pointer;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;    
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdasombreada A:active 
+{
+    background-color: #ffecb0; 
+    color: #2c2c2c; 
+    cursor: pointer;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;     
+    text-decoration: decoration; 
+    height:20px;
+}
+
+.celdasombreada A:hover 
+{
+    background-color: #ffecb0; 
+    color: #2c2c2c; 
+    cursor:pointer;    
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px;     
+    text-decoration: none; 
+    height:20px;
+}
+
+
+.celdaherramientastexto
+{
+    color: #4d3e3e;
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.celdaherramientastexto A:link 
+{
+    color: #4d3e3e; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 10px; 
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+.celdaherramientastexto A:visited 
+{
+    color: #4d3e3e; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 10px; 
+    font-weight: bold;    
+    text-decoration: none; 
+}
+
+.celdaherramientastexto A:active 
+{
+    color: #faa016; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 10px; 
+    font-weight: bold;   
+    text-decoration: none; 
+}
+
+.celdaherramientastexto A:hover 
+{
+    color: #faa016; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 10px; 
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+.celdatitulo
+{
+	background-color: #9EB2C9; /*#ffc97f;*/
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 11px;
+	font-weight: bold;
+	height: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.celdatitulo A:link 
+{
+    background-color: #9EB2C9; 
+    color: #FFFFFF; 
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 11px; 
+    font-weight: bold; 
+    height: 20px;    
+    text-align: center; 
+    text-decoration: decoration; 
+}
+
+.celdatitulo A:visited 
+{
+    background-color: #9EB2C9; 
+    color: #FFFFFF; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    font-weight: bold; 
+    height: 20px;    
+    text-align: center; 
+    text-decoration: decoration; 
+}
+
+.celdatitulo A:active 
+{
+    background-color: #9EB2C9; 
+    color: #FFFFFF; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    font-weight: bold; 
+    height: 20px;    
+    text-align: center; 
+    text-decoration: decoration; 
+}
+ 
+.celdatitulo A:hover 
+{
+    background-color: #9EB2C9; 
+    color: #ffffff; 
+    font-family: Arial, Helvetica, Sans-Serif; 
+    font-size: 11px; 
+    font-weight: bold; 
+    height: 20px;    
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.celdaFooterAlt
+{
+	color: #003955;
+	font-size:10px;
+	font-family:Tahoma,Helvetica,sans-serif;
+	font-weight: bold;
+	height: 20px;
+	text-align: left;
+	text-decoration: none;
+	background-color:#FFFFFF;
+	border-style :solid ;
+	border-width:1px;
+	border-color:#003955;
+	padding-right:2px;
+}
+.celdaFooter
+{
+    color: #000000;
+	font-family:Tahoma,Helvetica,sans-serif;
+    font-size:9px;
+	font-weight: bold;
+	height: 20px;
+	text-align: left;
+	text-decoration: none;
+	background-color:#FFF0E6;
+	border-style :solid ;
+	border-width:1px;
+	border-color:Red;
+	padding-left:5px;
+	margin-right:2px;
+	}
+
+.celdaFooter td
+{
+	PADDING-RIGHT: 3px; 
+	PADDING-LEFT: 3px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.celdaCabecera
+{
+    background:#f9f9f9 url(img/captionbckg.gif) repeat-x;
+	/*border-bottom:1px solid #99BBE8;*/
+	border-color:#99BBE8;
+    border-style:solid;
+    border-width:0 1px 1px;	
+    color:#15428B;
+	text-align:left;
+	line-height:22px;
+	font-size:10px;
+	font-weight:bold;
+	padding-top:2px;
+	padding-left:4px;
+	font-family:tahoma,arial,verdana,sans-serif;
+}
